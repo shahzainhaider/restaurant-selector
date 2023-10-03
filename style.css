@@ -53,3 +53,7 @@ input{
     padding: 4px 8px;
     border-radius: 3px;
 }
+li{
+    font-weight: 600;
+    font-size: large;
+}
