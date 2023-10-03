@@ -51,6 +51,7 @@ h1{
 }
 input{
     padding: 4px 8px;
+    width: 180px;
     border-radius: 3px;
 }
 li{
